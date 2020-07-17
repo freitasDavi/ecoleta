@@ -2,7 +2,7 @@
     <img src="public/assets/logo.svg">
 </h1>
 <h1 allign="center">
-    <img src="public/assets/giff.gif">
+    <img src="/assets/foodfy.gif">
 </h1>
 
 #     Indice
