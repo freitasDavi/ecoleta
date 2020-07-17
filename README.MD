@@ -32,7 +32,7 @@ O Projeto foi desenvolvidos utlizando as seguintes tecnologias
 ```
     # Clonar o repositório
 
-    $ git clone https://github.com/tekuninn/ecoleta
+    $ git clone https://github.com/freitasDavi/ecoleta
 
     # Instalar o node
 
